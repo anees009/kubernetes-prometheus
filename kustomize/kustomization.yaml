@@ -5,3 +5,7 @@ resources:
 - clusterRole.yaml
 - prometheus-deployment.yaml
 - prometheus-service.yaml
+- AlertManagerConfigmap.yaml
+- AlertTemplateConfigMap.yaml
+- alert-deployment.yaml
+- alert-service.yaml
